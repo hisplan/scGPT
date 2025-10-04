@@ -19,7 +19,7 @@ Run the following commands in your terminal:
 ipython
 ```
 
-Then, in the IPython shell, run the following. You should not see any error messages.
+Then, in the IPython shell, run the following. You should not see any error messages if everything is set up correctly:
 
 ```bash
 import scgpt as scg
