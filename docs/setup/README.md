@@ -8,9 +8,11 @@
 
 ```bash
 conda create -y -n scgpt python=3.10.18 pip
+
 conda activate scgpt
-# pip install torch==2.3.0 torchtext==0.18.0
+
 pip install torch==2.3.0 torchtext==0.18.0 torchvision==0.18.0 torchaudio==2.3.0
+
 pip install scgpt==0.2.4 "flash-attn<1.0.5" jupyterlab
 ```
 
