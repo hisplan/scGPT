@@ -4,6 +4,8 @@
 
 ## HGU HPC
 
+This part was tested with conda version 25.3.1.
+
 ### Installation
 
 ```bash
